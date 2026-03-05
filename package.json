@@ -9,7 +9,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@google/generative-ai": "^0.21.0",
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.20.3",
     "connect-flash": "^0.1.1",
@@ -22,6 +21,7 @@
     "express-ejs-layouts": "^2.5.1",
     "express-rate-limit": "^7.5.0",
     "express-session": "^1.18.1",
+    "groq-sdk": "^0.37.0",
     "jsdom": "^25.0.1",
     "jsonwebtoken": "^9.0.2",
     "mammoth": "^1.8.0",
